@@ -8,5 +8,5 @@ import { Proposal } from './proposal';
 })
 
 export class ProposalNewComponent {
-  proposal = new Proposal:
+  proposal = new Proposal;
 }
