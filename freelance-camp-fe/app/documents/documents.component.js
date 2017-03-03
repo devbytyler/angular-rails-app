@@ -16,21 +16,21 @@ var DocumentsComponent = (function () {
                 description: 'asdfasdfdfgsdfg',
                 file_url: 'https://google.com',
                 updated_at: '11/11/16',
-                image_url: 'https://google.com',
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg/1024px-Mistakes-to-avoid-when-hiring-freelancers.jpg',
             },
             {
                 title: "My second Doc",
                 description: 'asdfasdfdfgsdfg',
                 file_url: 'https://google.com',
                 updated_at: '11/11/16',
-                image_url: 'https://google.com',
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg/1024px-Mistakes-to-avoid-when-hiring-freelancers.jpg',
             },
             {
                 title: "My last Doc",
                 description: 'asdfasdfdfgsdfg',
                 file_url: 'https://google.com',
                 updated_at: '11/11/16',
-                image_url: 'https://google.com',
+                image_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mistakes-to-avoid-when-hiring-freelancers.jpg/1024px-Mistakes-to-avoid-when-hiring-freelancers.jpg',
             },
         ];
     }
